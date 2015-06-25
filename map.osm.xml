@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.3.3 (21759 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="52.4440800" minlon="-1.9305700" maxlat="52.4451000" maxlon="-1.9280700"/>
+ <node id="1" visible="true" version="1" changeset="21443971" timestamp="2014-04-01T17:54:04Z" user="brianboru" uid="9065" lat="52.4424918" lon="-1.9290400"/>
+ <node id="2" visible="true" version="1" changeset="21443971" timestamp="2014-04-01T17:54:04Z" user="brianboru" uid="9065" lat="52.4424918" lon="-1.9290400"/>
+ <node id="3" visible="true" version="1" changeset="21443971" timestamp="2014-04-01T17:54:04Z" user="brianboru" uid="9065" lat="52.4424918" lon="-1.9290400"/>
+ <node id="4" visible="true" version="1" changeset="21443971" timestamp="2014-04-01T17:54:04Z" user="brianboru" uid="9065" lat="52.4424918" lon="-1.9290400"/>
+
+
+ <way id="5" visible="true" version="1" changeset="21222698" timestamp="2014-03-21T07:25:03Z" user="brianboru" uid="9065">
+  <nd ref="1"/>
+  <nd ref="2"/>
+
+  <tag k="addr:city" v="Birmingham"/>
+  <tag k="addr:housenumber" v="97"/>
+  <tag k="addr:postcode" v="B29 7DX"/>
+  <tag k="addr:street" v="Alton Road"/>
+  <tag k="building" v="terraced_house"/>
+  <tag k="source" v="bing"/>
+ </way>
+
+ <way id="6" visible="true" version="1" changeset="21222698" timestamp="2014-03-21T07:25:03Z" user="brianboru" uid="9065">
+  <nd ref="2"/>
+  <nd ref="3"/>
+
+
+
+  <tag k="addr:city" v="Birmingham"/>
+  <tag k="addr:housenumber" v="97"/>
+  <tag k="addr:postcode" v="B29 7DX"/>
+  <tag k="addr:street" v="Alton Road"/>
+  <tag k="building" v="terraced_house"/>
+  <tag k="source" v="bing"/>
+ </way>
+
+ <way id="6" visible="true" version="1" changeset="21222698" timestamp="2014-03-21T07:25:03Z" user="brianboru" uid="9065">
+  <nd ref="3"/>
+  <nd ref="4"/>
+  <tag k="addr:city" v="Birmingham"/>
+  <tag k="addr:housenumber" v="97"/>
+  <tag k="addr:postcode" v="B29 7DX"/>
+  <tag k="addr:street" v="Alton Road"/>
+  <tag k="building" v="terraced_house"/>
+  <tag k="source" v="bing"/>
+ </way>
+
+</osm>
