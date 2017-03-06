@@ -1,4 +1,5 @@
 # Final Year Project
-This is my final year project for university.
+This is part my final year project for university. My task was to be able to create cyclical routes as close to a given length as possible. I titled this the run routing problem.
 
-Within you will find both the front and back end.
+This project contains experimental work and different approaches to the problem. I finally settled on modifying the heuristic of A* search.
+
